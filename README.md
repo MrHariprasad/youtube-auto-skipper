@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Auto Skipper (SponsorSkip)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -229,3 +230,6 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 **Made with ❤️ by the open source community**
 
 **Star ⭐ this repo if it saves you time!**
+=======
+# youtube-auto-skipper
+>>>>>>> 3aca9740d3cb5385536eab5cfc2f66181df62252
